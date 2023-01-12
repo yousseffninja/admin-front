@@ -110,6 +110,7 @@ const Register = () => {
                     lastName,
                     email,
                     username: user,
+                    telephone: phone,
                     password: pwd,
                     passwordConfirm: matchPwd,
                 }),
